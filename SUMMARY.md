@@ -1,7 +1,23 @@
 # Table of contents
 
-* [Page](README.md)
+* [Welcome](README.md)
+* [Getting Started](getting-started.md)
 
-## Group 1
+## Using OutreachGuy
 
-* [Page 1](group-1/page-1.md)
+* [Projects](projects.md)
+* [Connecting Your Account](connecting-account.md)
+* [Missions](missions.md)
+* [Powers](powers.md)
+* [Leads](leads.md)
+* [AI Chat](ai-chat.md)
+
+## Account
+
+* [Activity & Analytics](activity.md)
+* [Plans & Billing](billing.md)
+* [Settings](settings.md)
+
+## Help
+
+* [FAQ](faq.md)
