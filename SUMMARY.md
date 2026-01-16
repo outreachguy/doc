@@ -11,6 +11,7 @@
 * [Powers](powers.md)
 * [Leads](leads.md)
 * [AI Chat](ai-chat.md)
+* [Rate Limits](rate-limits.md)
 
 ## Account
 
