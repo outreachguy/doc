@@ -75,6 +75,20 @@ Yes. Each conversation keeps its history, and you can continue past conversation
 ### Can the AI post directly to X?
 Yes. The AI can take actions like posting, replying, and sending DMs—not just give suggestions.
 
+## Rate Limits
+
+### Why can't I post more than once every few hours?
+OutreachGuy enforces rate limits to protect your X account. Posting too frequently can trigger X's spam detection and get your account restricted. See [Rate Limits](rate-limits.md) for all limits.
+
+### My mission stopped replying. What happened?
+You may have hit the reply limit (10 per 30 minutes). The AI will automatically resume once the limit resets. It will focus on other actions in the meantime.
+
+### Do rate limits use my energy?
+No. When an action is blocked by rate limits, no energy is consumed. You only use energy for successful actions.
+
+### Can I increase the rate limits?
+No. These limits are set to keep your account safe and are based on X's known thresholds.
+
 ## Troubleshooting
 
 ### My X account shows a yellow status
