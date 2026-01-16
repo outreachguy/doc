@@ -82,6 +82,19 @@ Each action uses energy (credits):
 
 When creating a mission, you'll see an estimate of how much energy it will use. Keep an eye on your energy balance in your account settings.
 
+## Rate limits
+
+To protect your X account, OutreachGuy enforces rate limits on actions:
+
+- **Replies** — 10 per 30 minutes
+- **Posts** — 1 per 4 hours
+- **DMs** — 10 per hour
+- **Follows** — 20 per hour, 100 per day
+
+When a limit is reached, the AI will pause that action type and focus on other tasks. Actions resume automatically once the limit resets.
+
+See [Rate Limits](rate-limits.md) for the complete list.
+
 ## Managing your missions
 
 In the Missions page, you can:
